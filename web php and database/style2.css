@@ -1,0 +1,115 @@
+
+
+
+/* Nav bar Starts */
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.navbar-buttons {
+    align-self: center;
+    text-align: center;
+    width: 20%;
+}
+
+.navbar {
+    width: 65%;
+    text-align: center;
+    position: sticky;
+}
+
+
+
+.navbar-item-main {
+    font-weight: 350;
+    font-size: larger;
+    width: 10vw;
+    margin: 10px -5px;
+}
+
+.menu-btn {
+    background-color: black;
+    /* Green */
+    border: none;
+    color: orange;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 0;
+    transition: all 0.2s ease-in;
+}
+
+body {
+    background: rgba(0, 0, 0, 0.7) url('home.jpg');
+    background-size: cover;
+    background-image: darken;
+}
+
+.text {
+    color: white;
+}
+
+.boxmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.second img {
+    width: 70%;
+    padding: 4px 0;
+    border: 4px solid white;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.text {
+    font-size: 50px;
+}
+
+.text small {
+    font-style: 15px;
+}
+
+
+
+
+
+.text-center {
+    text-align: center;
+    padding-top: 20px;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

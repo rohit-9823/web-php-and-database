@@ -1,0 +1,70 @@
+/* Nav bar Starts */
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.navbar-buttons {
+    align-self: center;
+    text-align: center;
+    width: 20%;
+}
+
+.navbar {
+    width: 65%;
+    text-align: center;
+    position: sticky;
+}
+
+
+
+.navbar-item-main {
+    font-weight: 350;
+    font-size: larger;
+    width: 10vw;
+    margin: 10px -5px;
+}
+
+
+
+
+
+.menu-btn {
+    background-color: black;
+    /* Green */
+    border: none;
+    color: orange;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 0;
+    transition: all 0.2s ease-in;
+}
+body{
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
